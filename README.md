@@ -20,4 +20,4 @@ THEN the saved events persist
 
 Please see [live page here](https://mattg-git.github.io/05_Third_Party_APIs_Calendar_Application/) and screenshot of project below.
 
-![Work Day Calendar](Screen_Shot.png)
+![Work Day Calendar](Screen_shot.png)
