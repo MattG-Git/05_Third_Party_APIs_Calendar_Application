@@ -18,6 +18,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Please see [live page here]() and screenshot of project below.
+Please see [live page here](https://mattg-git.github.io/05_Third_Party_APIs_Calendar_Application/) and screenshot of project below.
 
-![Work Day Calendar]()
+![Work Day Calendar](Screen_Shot.png)
